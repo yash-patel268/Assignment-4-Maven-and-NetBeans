@@ -1,8 +1,8 @@
 # Assignment-4-Maven-and-NetBeans
 
 Table of Contents:<br/>
-[Execrise 1](https://github.com/yash-patel268/Assignment-4-Maven-and-NetBeans/tree/master/Execrise%201/MyCompanyProject)  
-[Exercise 2](https://github.com/yash-patel268/Assignment-4-Maven-and-NetBeans/tree/master/Execrise%202/sofe3650-assignment4)<br/><br/>
+[Exercise 1](https://github.com/yash-patel268/Assignment-4-Maven-and-NetBeans/tree/master/Exercise%201/MyCompanyProject)  
+[Execrise 2](https://github.com/yash-patel268/Assignment-4-Maven-and-NetBeans/tree/master/Exercise%202/sofe3650-assignment4)<br/><br/>
 The group consists of the following member:  
 Kalapan Kannathasan - 100759041  
 Yash Patel - 100746810  
